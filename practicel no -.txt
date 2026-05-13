@@ -1,0 +1,3 @@
+practicel no -: 
+
+1. google cloud console-> sign in -> cloud over view (dashboard)->project (new project)-> enable after creata-> activate clod shree-> git clone https://github.com/icem2027/sem6.git  -> cd sem6  -> ls  ->python3 cc.py
